@@ -15,7 +15,7 @@ The warehouse should have at least the following functionality;
 * Get all products and quantity of each that is an available with the current inventory
 * Remove(Sell) a product and update the inventory accordingly
 
-##Solution
+## Solution
 
 This assignment has been implemented using springboot and java. PostMan can be used to access the below APIs
 
