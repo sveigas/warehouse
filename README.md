@@ -19,8 +19,12 @@ The warehouse should have at least the following functionality;
 
 This assignment has been implemented using springboot and java. PostMan can be used to access the below APIs
 
-http://localhost:8080/upload/inventory                  (functionality to upload inventory.json)
-http://localhost:8080/upload/products                   (functionality to upload products.json)
-http://localhost:8080/view/inventory                    (functionality to view the current inventory)
-http://localhost:8080/view/products/                    (functionality to view the current list of products)
-http://localhost:8080/delete/products/{product-name}    (functionality to delete/sell the product and update inventory)
+1. http://localhost:8080/upload/inventory                  (functionality to upload inventory.json)
+
+2. http://localhost:8080/upload/products                   (functionality to upload products.json)
+
+3. http://localhost:8080/view/inventory                    (functionality to view the current inventory)
+
+4. http://localhost:8080/view/products/                    (functionality to view the current list of products)
+
+5. http://localhost:8080/delete/products/{product-name}    (functionality to delete/sell the product and update inventory)
